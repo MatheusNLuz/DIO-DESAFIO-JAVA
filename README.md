@@ -1,2 +1,2 @@
 # DIO-DESAFIO-JAVA
-Um desafio de JAVA para a criação de um codigo representando uma conta bamcária
+Um desafio em JAVA para a criação de um codigo representando uma conta bancária
